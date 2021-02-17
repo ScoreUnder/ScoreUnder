@@ -1,5 +1,5 @@
 # score
 
-<img src="/Discord-Logo-Color.svg" valign="middle"> score#6846
+<img src="/Discord-Logo-Color.svg" style="vertical-align:middle"> score#6846
 
 

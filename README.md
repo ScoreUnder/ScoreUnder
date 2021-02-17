@@ -1,5 +1,3 @@
-# score
-
 ## my handles elsewhere
 
 <table><tbody>

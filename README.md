@@ -1,5 +1,7 @@
 # score
 
+## my handles elsewhere
+
 <table><tbody>
   <tr>
     <td valign="middle"><img src="/Keybase_logo_official.svg" height="32"></td>

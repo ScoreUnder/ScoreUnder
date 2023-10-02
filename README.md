@@ -10,4 +10,13 @@
     <td valign="middle"><img src="/Discord-Logo-Color.svg" height="32"></td>
     <td valign="middle">score_under</td>
   </tr>
+
+  <tr>
+    <td valign="middle"><img src="/linkedin.svg" style="color: rgb(10, 102, 194)" height="32"></td>
+    <td valign="middle">
+
+[Sophie Daffern](https://www.linkedin.com/in/sophie-daffern-37a739291/)
+
+</td>
+</tr>
 </tbody></table>
